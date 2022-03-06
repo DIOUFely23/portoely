@@ -46,6 +46,7 @@
     background-image: url('be.jpg') ;
     background-repeat: no-repeat;
     background-size: 100%;
+
     
     
     
@@ -269,4 +270,15 @@ background-color:white;
 }
 .GET{
     text-decoration: underline crimson;
+    
+}
+.rr{
+    transition: 03s;
+}
+.rr:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.diou{
+    color:white;
 }
